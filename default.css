@@ -27,7 +27,7 @@ h2 {
 	padding: 0;
 	text-transform: none;
 	text-align: justify;
-	font-family: Varela Round;
+	font-family: Constantia;
 	font-size: 1.18em;
 	font-weight: 200;
 	color: #2D2D2D;
@@ -37,7 +37,7 @@ h3 {
 	padding: 60;
 	text-transform: none;
 	text-align: justify;
-	font-family: Varela Round;
+	font-family: Constantia;
 	font-size: 1em;
 	font-weight: 100;
 	color: #2D2D2D;
@@ -58,7 +58,7 @@ h5 {
 	padding: 36;
 	text-transform: none;
 	text-align: center;
-	font-family: Varela Round;
+	font-family: Constantia;
 	font-size: 1.36em;
 	font-weight: 100;
 	font-style: italic;
@@ -80,7 +80,7 @@ h7 {
 	padding: 80;
 	text-transform: none;
 	text-align: center;
-	font-family: Varela Round;
+	font-family: Constantia;
 	font-size: 21px;
 	font-weight: 100;
 	color: #2D2D2D;
@@ -114,7 +114,7 @@ p, ol, ul {
 
 p {
 	line-height: 160%;
-	font-family: Varela Round;
+	font-family: Constantia;
 	
 }
 
