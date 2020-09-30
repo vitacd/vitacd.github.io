@@ -47,7 +47,7 @@ h4 {
 	padding: 80;
 	text-transform: none;
 	text-align: justify;
-	font-family: Arial;
+	font-family: Varela Round;
 	font-size: 1.8em;
 	font-weight: 100;
 	color: rgba(0,0,0,.68);
@@ -114,6 +114,7 @@ p, ol, ul {
 
 p {
 	line-height: 160%;
+	font-family: Varela Round;
 	
 }
 
@@ -149,7 +150,7 @@ strong {
 .center2 {
     display: block;
     margin-left: 136px;
-    margin-top: 18px;
+    margin-top: 36px;
     width: 16%;
     height: 18%;
 }
@@ -238,14 +239,14 @@ hr {
 	margin: 0px auto;
 }
 .container3 {
-	height: 888px;
+	height: 1200px;
       background: #FFF;
 	width: 900px;
 	margin: 0px auto;
 	position: relative;
 	}
 .container4 {
-	height: 986px;
+	height: 1200px;
       background: #FFF;
 	width: 900px;
 	margin: 0px auto;
@@ -685,10 +686,10 @@ ul.style3 .first {
 	.button3
 	{
 		float: left;
-    		width: 28%;
+    		width: 40%;
     		padding: 0px;
 		display: inline-block;
-		margin-left: 16px;
+		margin-left: 15px;
 		margin-top: 36px;
 		background: #a80000;
 		letter-spacing: 0em;
